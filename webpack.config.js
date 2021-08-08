@@ -30,4 +30,7 @@ module.exports = {
       'react-native': 'react-native-web',
     },
   },
+  devServer: {
+    port: 5001,
+  },
 };
